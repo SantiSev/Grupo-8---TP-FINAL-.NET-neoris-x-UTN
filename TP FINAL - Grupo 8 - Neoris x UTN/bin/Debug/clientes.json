@@ -1,0 +1,27 @@
+[
+  
+  {
+    "nroCliente": 1,
+    "nombre": "Santi",
+    "apellido": "Sev",
+    "telefono": "124124",
+    "nacionalidad": "Arg",
+    "provincia": "Bs As",
+    "direccion": "Cespedes 1234",
+    "razon_social": null,
+    "cuit": null,
+    "DNI": 429510421
+  },
+  {
+    "nroCliente": 2,
+    "nombre": "Mati",
+    "apellido": "Sev",
+    "telefono": "1214",
+    "nacionalidad": "Arg",
+    "provincia": "Bs As",
+    "direccion": "cespies 2334",
+    "razon_social": null,
+    "cuit": null,
+    "DNI": 214124
+  }
+]

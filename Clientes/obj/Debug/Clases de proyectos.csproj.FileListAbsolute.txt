@@ -1,0 +1,54 @@
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Clases UTN x Neoris\Trabajo Integrador\Clientes\bin\Debug\Clientes.dll
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Clases UTN x Neoris\Trabajo Integrador\Clientes\bin\Debug\Clientes.pdb
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Clases UTN x Neoris\Trabajo Integrador\Clientes\obj\Debug\Clases de proyectos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Clases UTN x Neoris\Trabajo Integrador\Clientes\obj\Debug\Clientes.dll
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Clases UTN x Neoris\Trabajo Integrador\Clientes\obj\Debug\Clientes.pdb
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Clases UTN x Neoris\Trabajo Integrador\Clientes\obj\Debug\Clases de proyectos.csproj.AssemblyReference.cache
+D:\Trabajo Final Grupo 8 epico neoris\TP-Grupo-EPICO\Clientes\bin\Debug\Clientes.dll
+D:\Trabajo Final Grupo 8 epico neoris\TP-Grupo-EPICO\Clientes\bin\Debug\Clientes.pdb
+D:\Trabajo Final Grupo 8 epico neoris\TP-Grupo-EPICO\Clientes\obj\Debug\Clases de proyectos.csproj.AssemblyReference.cache
+D:\Trabajo Final Grupo 8 epico neoris\TP-Grupo-EPICO\Clientes\obj\Debug\Clases de proyectos.csproj.CoreCompileInputs.cache
+D:\Trabajo Final Grupo 8 epico neoris\TP-Grupo-EPICO\Clientes\obj\Debug\Clientes.dll
+D:\Trabajo Final Grupo 8 epico neoris\TP-Grupo-EPICO\Clientes\obj\Debug\Clientes.pdb
+C:\Users\Anabel\Desktop\TP-Grupo-EPICO-master\Clientes\bin\Debug\Clientes.dll.config
+C:\Users\Anabel\Desktop\TP-Grupo-EPICO-master\Clientes\bin\Debug\Clientes.dll
+C:\Users\Anabel\Desktop\TP-Grupo-EPICO-master\Clientes\bin\Debug\Clientes.pdb
+C:\Users\Anabel\Desktop\TP-Grupo-EPICO-master\Clientes\bin\Debug\EntityFramework.dll
+C:\Users\Anabel\Desktop\TP-Grupo-EPICO-master\Clientes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anabel\Desktop\TP-Grupo-EPICO-master\Clientes\bin\Debug\EntityFramework.xml
+C:\Users\Anabel\Desktop\TP-Grupo-EPICO-master\Clientes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anabel\Desktop\TP-Grupo-EPICO-master\Clientes\obj\Debug\Clases de proyectos.csproj.AssemblyReference.cache
+C:\Users\Anabel\Desktop\TP-Grupo-EPICO-master\Clientes\obj\Debug\Clases de proyectos.csproj.CoreCompileInputs.cache
+C:\Users\Anabel\Desktop\TP-Grupo-EPICO-master\Clientes\obj\Debug\Clases de proyectos.csproj.CopyComplete
+C:\Users\Anabel\Desktop\TP-Grupo-EPICO-master\Clientes\obj\Debug\Clientes.dll
+C:\Users\Anabel\Desktop\TP-Grupo-EPICO-master\Clientes\obj\Debug\Clientes.pdb
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\Clientes.dll.config
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\Clientes.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\Clientes.pdb
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\EntityFramework.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Buffers.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Memory.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Text.Json.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.ValueTuple.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\EntityFramework.xml
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Buffers.xml
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Memory.xml
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Text.Json.xml
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\bin\Debug\System.ValueTuple.xml
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\obj\Debug\Clases de proyectos.csproj.AssemblyReference.cache
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\obj\Debug\Clases de proyectos.csproj.CoreCompileInputs.cache
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\obj\Debug\Clases de proyectos.csproj.CopyComplete
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\obj\Debug\Clientes.dll
+C:\Users\Anabel\Desktop\Programing\TP-Grupo-EPICO-master\Clientes\obj\Debug\Clientes.pdb
